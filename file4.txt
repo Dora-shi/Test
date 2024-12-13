@@ -1,2 +1,1 @@
-file 4
-new
+It's new file #4
